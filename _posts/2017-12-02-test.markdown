@@ -7,7 +7,6 @@ image:
 video: false
 comments: true
 ---
-
 # Video thử nghiệm  
 ## with facebook:  
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBestieVN%2Fvideos%2F1521750244608849%2F&show_text=1&width=300" width="300" height="300" style="border:none;overflow:shift" scrolling="no" frameborder="1" allowTransparency="true" allowFullScreen="true"></iframe>
