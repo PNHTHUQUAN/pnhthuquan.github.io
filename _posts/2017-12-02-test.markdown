@@ -3,7 +3,7 @@ title: "test"
 layout: post
 quote: "cc"
 image: 
-    url: https://scontent.fsgn5-4.fna.fbcdn.net/v/t1.0-9/19420532_1756534557697053_2823795634263230762_n.jpg?oh=ef1b5facc83d2384c6cca93f22a40ec3&oe=5AD35BEC
+    url: https://www.hdwallpapers.in/walls/cold_galaxy-HD.jpg
 video: false
 comments: true
 ---
