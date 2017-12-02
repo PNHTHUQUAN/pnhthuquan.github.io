@@ -1,7 +1,7 @@
 ---
-title: "test"
+title: "Test một số thứ <(")"
 layout: post
-quote: "cc"
+quote: "Không có gì để đọc ở đây đâu hú hú"
 image: 
     url: https://www.hdwallpapers.in/walls/cold_galaxy-HD.jpg
 video: false
