@@ -1,5 +1,5 @@
 ---
-title: "Test một số thứ <(")"
+title: "Test một số thứ <('')"
 layout: post
 quote: "Không có gì để đọc ở đây đâu hú hú"
 image: 
