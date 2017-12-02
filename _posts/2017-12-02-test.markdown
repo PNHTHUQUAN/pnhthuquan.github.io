@@ -2,10 +2,13 @@
 title: "test"
 layout: post
 quote: "cc"
-image: false
+image: 
+    url: https://scontent.fsgn5-4.fna.fbcdn.net/v/t1.0-9/19420532_1756534557697053_2823795634263230762_n.jpg?oh=ef1b5facc83d2384c6cca93f22a40ec3&oe=5AD35BEC
 video: false
 comments: true
 ---
 
 # Video thử nghiệm
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBestieVN%2Fvideos%2F1521750244608849%2F&show_text=1&width=560" width="560" height="566" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBestieVN%2Fvideos%2F1521750244608849%2F&show_text=1&width=300" width="300" height="300" style="border:none;overflow:shift" scrolling="yes" frameborder="1" allowTransparency="true" allowFullScreen="true"></iframe>
+n
