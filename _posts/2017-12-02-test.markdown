@@ -8,7 +8,26 @@ video: false
 comments: true
 ---
 
-# Video thử nghiệm
-
+# Video thử nghiệm  
+## with facebook:  
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBestieVN%2Fvideos%2F1521750244608849%2F&show_text=1&width=300" width="300" height="300" style="border:none;overflow:shift" scrolling="yes" frameborder="1" allowTransparency="true" allowFullScreen="true"></iframe>
-n
+
+## with youtube:
+<iframe width="560" height="315" src="https:4//www.youtube.com/embed/sKkeymi8dnE?rel=0&amp;start=837" frameborder="0" allowfullscreen></iframe>
+
+
+# nhạc thử nghiệm  
+## mp3.zing:  
+<iframe scrolling="no" width="853" height="240" src="https://mp3.zing.vn/embed/song/ZW8W6UEF" frameborder="0" allowfullscreen="true"></iframe>
+## nhaccuatui:  
+<iframe src="https://www.nhaccuatui.com/mh/normal/dK1rcdBKFkpN" width="620" height="382" frameborder="0" allowfullscreen></iframe>
+
+## soudcloud:
+<iframe width="100%" height="300" scrolling="no" frameborder="yes" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/332229480&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
+# Game =)
+<!-- Hey Webmaster! Place this html code where you'd like the game to appear. -->
+<iframe src="https://www.silvergames.com/en/2048/iframe" width="400" height="540" style="margin:0;padding:0;border:0"></iframe>
+<p style="text-align:center"><a href="https://www.silvergames.com/en/2048" rel="nofollow" target="_blank"></a> / <a href="https://www.silvergames.com/en/t/number" rel="nofollow" target="_blank"></a></p>
+<!-- End of game embed code -->
+ 
