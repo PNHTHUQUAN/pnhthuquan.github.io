@@ -10,7 +10,6 @@ comments: true
 # Video thử nghiệm  
 ## with facebook:  
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBestieVN%2Fvideos%2F1521750244608849%2F&show_text=1&width=300" width="300" height="300" style="border:none;overflow:shift" scrolling="no" frameborder="1" allowTransparency="true" allowFullScreen="true"></iframe>
-
 ## with youtube:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OYVKgxYMzLU" frameborder="0" allowfullscreen></iframe>
 # nhạc thử nghiệm  

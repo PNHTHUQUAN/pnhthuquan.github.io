@@ -28,7 +28,7 @@ social:
     desk:         Group nhóm.
   - icon:         mail
     url:          mailto:pnhthuquan@gmail.com
-    desk:        Mail Me.
+    desk:         Mail Me.
 menu:
   - title:        Trang chủ
     url:          /
