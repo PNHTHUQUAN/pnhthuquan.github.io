@@ -6,3 +6,6 @@ image: false
 video: false
 comments: true
 ---
+<div class="message">
+Còn nhiều điều cần ghi lắm :v
+</div>
