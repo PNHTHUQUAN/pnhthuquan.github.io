@@ -7,7 +7,7 @@ permalink: /blog/:title
 title:            PNH Thư Quán  
 tagline:          'Sách và Hành động'
 description:      '♥ PNH Thư Quán ♥'
-url:              http://th1nhng0.github.io
+url:              http://pnhthuquan.github.io
 baseurl:          
 commentsystem:    google
 disqus:           
@@ -26,6 +26,9 @@ social:
   - icon:         facebook
     url:          https://www.facebook.com/groups/363018557444727/?ref=ts&fref=ts
     desk:         Group nhóm.
+   - icon:         mail
+    url:          mailto:pnhthuquan@gmail.com
+    desk:        Mail Me.
 menu:
   - title:        Trang chủ
     url:          /
