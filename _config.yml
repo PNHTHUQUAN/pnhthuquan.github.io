@@ -27,7 +27,7 @@ social:
     url:          https://www.facebook.com/groups/363018557444727/?ref=ts&fref=ts
     desk:         Group nhóm.
 menu:
-  - title:        Home
+  - title:        Trang chủ
     url:          /
 
   - title:        About
