@@ -9,7 +9,7 @@ tagline:          'Sách và Hành động'
 description:      '♥ PNH Thư Quán ♥'
 url:              http://th1nhng0.github.io
 baseurl:          
-commentsystem:    facebook
+commentsystem:    google
 disqus:           
 
 author:
@@ -35,14 +35,14 @@ menu:
 
 copyright:
   author:         Camporez
-  url:            http://camporez.github.io
+ # url:            http://camporez.github.io
   type_title:     Some rights reserved
   type_url:       http://creativecommons.org/licenses/by-nc/2.5
 
 parallax:         true
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:  
+google_analytics:  UA-110551216-1
 
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color:       7E9576

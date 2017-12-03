@@ -1,8 +1,4 @@
 <head>
-	<!-- youtube music -->
-<iframe width="0" height="0" src="https://www.youtube.com/embed/qXCTw8EhMYU?ecver=1?rel=0&autoplay=1 " frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-	<!-- youtube music -->
-   
 	{% capture canonical %}{{ site.url }}{{ site.baseurl }}{% if site.permalink contains '.html' %}{{ page.url }}{% elsif site.permalink contains category_dir %}{{ '/' | page.url | remove:'index.html' | '/' }}{% else %}{{ page.url | remove:'index.html' | '/' }}{% endif %}{% endcapture %}
 	<link href="//gmpg.org/xfn/11" rel="profile">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">{% if page.article %}
@@ -34,15 +30,16 @@
 	{% endif %}
 	{% if site.google_analytics %}
 	<!-- Asynchronous Google Analytics snippet -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110551216-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
 
-		ga('create', '{{ site.google_analytics }}', 'auto');
-		ga('send', 'pageview');
-	</script>
+		  gtag('config', 'UA-110551216-1');
+		</script>
+
 	{% endif %}
 	<!-- Theme Color for Chrome on Android Lollipop -->
 	<meta name="theme-color" content="#{% if page.theme_color %}{{ page.theme_color }}{% else %}{{ site.theme_color }}{% endif %}">
