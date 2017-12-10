@@ -5,8 +5,8 @@ permalink: /blog/:title
 
 # Setup
 title:            PNH Thư Quán  
-tagline:          'Sách và Hành động'
-description:      '♥ PNH Thư Quán ♥'
+tagline:          
+description:      'PNH Thư Quán - Sách và Hành động'
 url:              http://pnhthuquan.github.io
 baseurl:          
 commentsystem:    google
