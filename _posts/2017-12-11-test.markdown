@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Test"
+quote: "test"
+image:  
+    url: '/media/test/ryusei__the_falling_star___magic_the_gathering_by_88grzes-dbw7toy.jpg'
+video: false
+comments: true
+---
+<div class="message">
+	just a test mother fucker :D
+</div>
